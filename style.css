@@ -33,7 +33,8 @@
 }
 .maikel-img{
     width: 100px;
-    border: radius 50px; ;
+    right:100px;
+    border-radius: 50px; 
 }
 .profile h2 {
     font-weight: 500;
